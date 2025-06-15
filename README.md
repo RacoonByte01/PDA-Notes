@@ -32,14 +32,14 @@ git clone https://github.com/RacoonByte01/PDA-Notes.git
 
 2. Compilar la aplicación
 
-- Para sistemas **UNIX**
+	- Para sistemas **UNIX**
 
-```bash
-./gradlew
-```
+	```bash
+	./gradlew
+	```
 
-- Para sistemas DOS
+	- Para sistemas **DOS**
 
-```CMD
-gradlew.bat
-```
+	```CMD
+	gradlew.bat
+	```
