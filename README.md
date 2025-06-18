@@ -1,3 +1,4 @@
+
 # 📒 PDA - Notes
 
 Aplicación móvil que permite a múltiples usuarios crear, editar y gestionar eventos y notas de forma local, con enfoque en la privacidad y seguridad de los datos.
@@ -34,16 +35,17 @@ Esta aplicación permite la gestión de notas y eventos personales o compartidos
 
 2. Compilar la aplicación
 
-	- Para sistemas **UNIX**
+   - Para sistemas **UNIX**
 
-		```bash
-		./gradlew
-		```
+      ```bash
+      ./gradlew
+      ```
 
-	- Para sistemas **DOS**
+   - Para sistemas **DOS**
 
-		```CMD
-		gradlew.bat
-		```
+      ```CMD
+      gradlew.bat
+      ```
 
 ### [Usar la aplicación compilada](https://github.com/RacoonByte01/PDA-Notes/releases/download/v1.0/PDA-Notes.apk)
+
