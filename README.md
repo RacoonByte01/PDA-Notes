@@ -28,24 +28,22 @@ Esta aplicación permite la gestión de notas y eventos personales o compartidos
 
 1. Clona este repositorio:
 
-```bash
-git clone https://github.com/RacoonByte01/PDA-Notes.git
-```
+	```bash
+	git clone https://github.com/RacoonByte01/PDA-Notes.git
+	```
 
 2. Compilar la aplicación
 
 	- Para sistemas **UNIX**
 
-	```bash
-	./gradlew
-	```
+		```bash
+		./gradlew
+		```
 
 	- Para sistemas **DOS**
 
-	```CMD
-	gradlew.bat
-	```
+		```CMD
+		gradlew.bat
+		```
 
-### Usar la aplicación compilada
-
-[PDA-Notes](https://github.com/RacoonByte01/PDA-Notes/releases/download/v1.0/PDA-Notes.apk)
+### [Usar la aplicación compilada](https://github.com/RacoonByte01/PDA-Notes/releases/download/v1.0/PDA-Notes.apk)
